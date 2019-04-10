@@ -4,6 +4,12 @@ Game Overview : https://www.youtube.com/watch?v=emMmDpg_4D0
 
 Demo : https://www.youtube.com/watch?v=eLITPA_rR00
 
+To Play: Click the link below then click on run to play the game.
+
+<a href="https://goo.gl/R6pH3r">Click here to play game</a><br>
+
+
+
 Team Members:
 1. Shripal Modani    (011439246)
 2. Pavan Kothawade   (012169690)
@@ -19,7 +25,6 @@ In the first hurdle Aladdin will have to face 2 enemies in order to obtain the m
 Now with the help of magic carpet Aladdin can travel safely facing few obstacles to reach towards the magic flask. The magical character 'Genie' is trapped inside the magic flask. Aladdin ask Genie to help him to cross obstacles in his way.
 
 <a href="https://goo.gl/eU23hG">Cumulative Flow Diagram</a><br>
-<a href="https://goo.gl/R6pH3r">Click here to play game</a><br>
 <a href="http://bit.ly/2A5l6Hf">Scrum Burndown Chart</a>
 
 ## Screenshots
